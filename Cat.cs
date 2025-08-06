@@ -101,7 +101,7 @@ namespace Cat
 
         public override int Path => MIDDLE;
 
-        public override string Description => "Upgrades the trick even further to add a jump making a backflip! Does more damage and does tricks even more often. Now does tricks even when no bloons are nearby.";
+        public override string Description => "Upgrades the trick even further to add a jump making a backflip! Does more damage and does tricks even more often.Adds a cute cat to the game, who does cool tricks to impress the bloons!\r\n\r\nWhat does the cat say? Not ding-ding-ding ding-ding ding-ding-ding-ding.\r\n\r\nMore paths will be added if I see enough interest in them.";
 
         public override int Cost => 450;
 
